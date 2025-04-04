@@ -3,7 +3,7 @@ layout: default
 title: Luca's Portfolio
 ---
 
-# 👋 Hello, I'm Luca
+<h1 align="center">Luca Demicheli Rubio</h1>
 
 <p align="center">
   <a href="https://www.moodlebites.com/badges/badgeclass.php?id=69" target="_blank">
@@ -11,53 +11,62 @@ title: Luca's Portfolio
   </a>
 </p>
 
-Certified **Moodle Developer Level 2** 
-A backend developer with experience in **Moodle**, **custom plugins**, **REST API**, and **AI integration**.  
-I build clean, scalable tools and educational platforms.
+Certified **Moodle Developer Level 2**  
+Backend developer experienced in **Moodle**, **custom plugins**, **REST APIs**, and **AI integration**.  
+I build scalable, maintainable educational tools.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - PHP, Moodle API, MySQL
 - Python (Flask, scripting, AI tools)
-- HTML, CSS (basic), Bootstrap
-- REST APIs, JSON integrations
+- HTML, CSS, Bootstrap
+- REST APIs, JSON
 - Git, GitHub, Docker, Bash
-- Linux server basics
-- Java, SpringBoot
----
-
-## 📂 Projects
-
-### 🎓 Moodle Plugins
-
-- 🔗 [block_book_chapter_pdf](https://github.com/LucaDR1998/moodle-block_bookchapter_pdf)  
-  Export selected chapters of a Book resource to PDF, with optional suffix preselection. Image support included.
-
-### 🤖 AI & Voice Tools
-
-- 🔗 [api-flask-voicebot](https://github.com/LucaDR1998/api-flask-voicebot)  
-  Flask API for voice interaction using LLM Studio + TTS.
-
-- 🔗 [springboot-predictor](https://github.com/LucaDR1998/springboot-predictor)  
-  Java backend calling Python-based model for predictions via REST.
+- Linux basics, Java, Spring Boot
 
 ---
 
-## 🔗 Links
+## Projects
 
-- 💼 [LinkedIn](www.linkedin.com/in/lucademicheli98)
-- 💻 [GitHub](https://github.com/LucaDR1998)
-- 🧑‍💼 [Upwork](https://www.upwork.com/freelancers/~01a0bd958666f8a741?viewMode=1)
+### Moodle Plugins
+
+- [**block_book_chapter_pdf**](https://github.com/LucaDR1998/moodle-block_bookchapter_pdf)  
+  Export selected Book chapters to PDF with optional suffix and image support.
+
+- [**block_gestionfederacion**](https://github.com/LucaDR1998/block_gestionfederacion)  
+  Dynamic creation of federated courses and groups.
+
+- [**csv-user-uploader**](https://github.com/LucaDR1998/csv-user-uploader)  
+  Script to bulk upload users, assign courses and groups via CSV.
+
+- [**report_wizink**](https://github.com/LucaDR1998/report_wizink)  
+  Custom admin report for course completion tracking.
+
+### AI & Voice Tools
+
+- [**api-flask-voicebot**](https://github.com/LucaDR1998/api-flask-voicebot)  
+  Flask API with voice recognition and LLM-based response synthesis.
+
+- [**springboot-predictor**](https://github.com/LucaDR1998/springboot-predictor)  
+  Java REST backend calling Python AI model for predictions.
 
 ---
 
-## 📫 Contact
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/lucademicheli98)
+- [GitHub](https://github.com/LucaDR1998)
+- [Upwork](https://www.upwork.com/freelancers/~01a0bd958666f8a741?viewMode=1)
+
+---
+
+## Contact
 
 **Email:** lucademichelirubio.portfolio@gmail.com  
-**Open to freelance opportunities** in Moodle, backend development, and AI integrations.
+**Available for freelance and collaborations** in Moodle, backend, and AI.
 
 ---
 
-_Site built with [GitHub Pages](https://pages.github.com) using [Jekyll](https://jekyllrb.com) – Theme: Hacker_
+<small>Site built with <a href="https://pages.github.com">GitHub Pages</a> using <a href="https://jekyllrb.com">Jekyll</a> – Theme: Hacker</small>
