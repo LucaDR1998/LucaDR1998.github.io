@@ -4,7 +4,6 @@ title: Luca's Portfolio
 ---
 
 # 👋 Hello, I'm Luca
-# 👋 Hello, I'm Luca
 
 <p align="center">
   <a href="https://www.moodlebites.com/badges/badgeclass.php?id=69" target="_blank">
