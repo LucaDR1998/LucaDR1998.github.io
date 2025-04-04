@@ -35,22 +35,15 @@ I build scalable, maintainable educational tools.
 - [**block_book_chapter_pdf**](https://github.com/LucaDR1998/moodle-block_bookchapter_pdf)  
   Export selected Book chapters to PDF with optional suffix and image support.
 
-- [**block_gestionfederacion**](https://github.com/LucaDR1998/block_gestionfederacion)  
-  Dynamic creation of federated courses and groups.
+---
 
-- [**csv-user-uploader**](https://github.com/LucaDR1998/csv-user-uploader)  
-  Script to bulk upload users, assign courses and groups via CSV.
+### AI & Machine Learning Projects
 
-- [**report_wizink**](https://github.com/LucaDR1998/report_wizink)  
-  Custom admin report for course completion tracking.
+- [**moodle-ai-plugin-assistant**](https://github.com/LucaDR1998/moodle-ai-plugin-assistant)  
+  Full-stack web assistant that lets Moodle admins query plugin documentation intelligently using Gemini, Milvus and RAG architecture. Features include voice/text input, LLM context injection, and a Bootstrap-based UI.
 
-### AI & Voice Tools
-
-- [**api-flask-voicebot**](https://github.com/LucaDR1998/api-flask-voicebot)  
-  Flask API with voice recognition and LLM-based response synthesis.
-
-- [**springboot-predictor**](https://github.com/LucaDR1998/springboot-predictor)  
-  Java REST backend calling Python AI model for predictions.
+- [**ml-hotel-reservations-classifier**](https://github.com/LucaDR1998/ml-hotel-reservations-classifier)  
+  Supervised machine learning project using Random Forest to classify hotel reservations (confirmed or canceled). Includes feature engineering, outlier analysis, model tuning, and performance evaluation with ROC-AUC.
 
 ---
 
