@@ -13,7 +13,7 @@ title: Luca's Portfolio
 
 Certified **Moodle Developer Level 2**  
 Backend developer experienced in **Moodle**, **custom plugins**, **REST APIs**, and **AI integration**.  
-I build scalable, maintainable educational tools.
+I build scalable, maintainable tools.
 
 ---
 
