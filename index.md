@@ -45,6 +45,10 @@ I build scalable, maintainable educational tools.
 - [**ml-hotel-reservations-classifier**](https://github.com/LucaDR1998/ml-hotel-reservations-classifier)  
   Supervised machine learning project using Random Forest to classify hotel reservations (confirmed or canceled). Includes feature engineering, outlier analysis, model tuning, and performance evaluation with ROC-AUC.
 
+- [**IMDb Analyzer**](https://github.com/LucaDR1998/IMDb_analyzer)  
+  AI-based system that scrapes IMDb reviews, analyzes sentiment with BERT, and predicts rating coherence with Random Forest. Features interactive Streamlit frontend, Flask microservice, PostgreSQL storage, and Dockerized deployment. Handles dynamic scraping, charting, and rating consistency analysis.
+
+
 ---
 
 ## Links
