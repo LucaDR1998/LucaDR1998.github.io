@@ -65,5 +65,3 @@ I build scalable, maintainable educational tools.
 **Available for freelance and collaborations** in Moodle, backend, and AI.
 
 ---
-
-<small>Site built with <a href="https://pages.github.com">GitHub Pages</a> using <a href="https://jekyllrb.com">Jekyll</a> – Theme: Hacker</small>
